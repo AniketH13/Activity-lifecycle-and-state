@@ -1,5 +1,3 @@
-# Lab_5 App
+# Lab_5 Homework App
 ### App screenshot
-![](./msg1s.png)
-![](./msg2s.png)
-![](./msg3s.png)
+![](./HomeworkLab5.png)
