@@ -1,3 +1,4 @@
-# Lab_5 Homework App
+# Lab_5 Coding Challenge App
 ### App screenshot
-![](./HomeworkLab5.png)
+![](./challenge_lab5.png)
+![](./coding_lab5.png)
