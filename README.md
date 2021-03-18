@@ -1,4 +1,4 @@
-# Two Activities App
+# Lab_5 App
 ### App screenshot
-![](./Message_Sent.png)
-![](./Message_Recived.png)
+![](./Msg_sent.png)
+![](./msg_reci.png)
