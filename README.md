@@ -1,4 +1,5 @@
 # Lab_5 App
 ### App screenshot
-![](./Msg_sent.png)
-![](./msg_reci.png)
+![](./msg1s.png)
+![](./msg2s.png)
+![](./msg3s.png)
